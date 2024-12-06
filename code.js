@@ -35,7 +35,7 @@ javascript:(function() {
   submitButton.style.border = 'none';
   submitButton.style.borderRadius = '4px';
   submitButton.style.backgroundColor = '#404040';
-  submitButton.style.color = '#fff';
+  submitButton.style.color = '#020527';
   submitButton.style.cursor = 'pointer';
   submitButton.style.fontFamily = window.getComputedStyle(title).getPropertyValue('font-family');
   submitButton.style.transition = 'background-color 0.3s ease';
